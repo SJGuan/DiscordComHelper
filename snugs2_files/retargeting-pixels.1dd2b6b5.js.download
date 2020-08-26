@@ -1,0 +1,96 @@
+/* eslint-disable */
+(function (w) {
+  function loadPinterestPixel(pixelId) {
+    !(function (e) {
+      if (!window.pintrk) {
+        window.pintrk = function () {
+          window.pintrk.queue.push(Array.prototype.slice.call(arguments));
+        };
+        var n = window.pintrk;
+        (n.queue = []), (n.version = '3.0');
+        var t = document.createElement('script');
+        (t.async = !0), (t.src = e);
+        var r = document.getElementsByTagName('script')[0];
+        r.parentNode.insertBefore(t, r);
+      }
+    })('https://s.pinimg.com/ct/core.js');
+    pintrk('load', pixelId);
+    pintrk('page');
+  }
+
+  /* eslint-disable */
+  function loadSnapchatPixel(pixelId) {
+    (function (e, t, n) {
+      if (e.snaptr) return;
+      var a = (e.snaptr = function () {
+        a.handleRequest
+          ? a.handleRequest.apply(a, arguments)
+          : a.queue.push(arguments);
+      });
+      a.queue = [];
+      var s = 'script';
+      r = t.createElement(s);
+      r.async = !0;
+      r.src = n;
+      var u = t.getElementsByTagName(s)[0];
+      u.parentNode.insertBefore(r, u);
+    })(w, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init', pixelId);
+
+    snaptr('track', 'PAGE_VIEW');
+  }
+
+  /* eslint-disable */
+  function loadTwitterPixel(pixeldId) {
+    !(function (e, t, n, s, u, a) {
+      e.twq ||
+        ((s = e.twq = function () {
+          s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+        }),
+        (s.version = '1.1'),
+        (s.queue = []),
+        (u = t.createElement(n)),
+        (u.async = !0),
+        (u.src = '//static.ads-twitter.com/uwt.js'),
+        (a = t.getElementsByTagName(n)[0]),
+        a.parentNode.insertBefore(u, a));
+    })(w, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', pixeldId);
+    twq('track', 'PageView');
+  }
+
+  function readJSONFromDOM(id, defaultValue) {
+    try {
+      return JSON.parse(document.getElementById(id).innerHTML) || defaultValue;
+    } catch (err) {
+      console.error('Error: element #' + id + ' was not readable in DOM.', err);
+      return defaultValue;
+    }
+  }
+
+  const retargetingPixels = readJSONFromDOM('config', {}).retargetingPixels;
+  if (retargetingPixels) {
+    Object.keys(retargetingPixels).forEach(pixelPlatform => {
+      const pixelId = retargetingPixels[pixelPlatform];
+
+      switch (pixelPlatform) {
+        case 'twitter':
+          loadTwitterPixel(pixelId);
+          break;
+
+        case 'pinterest':
+          loadPinterestPixel(pixelId);
+          break;
+
+        case 'snapchat':
+          loadSnapchatPixel(pixelId);
+          break;
+
+        default:
+          break;
+      }
+    });
+  }
+})(window);
