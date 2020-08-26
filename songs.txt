@@ -1,0 +1,407 @@
+!play Acquainted by The Weeknd
+!play 7 Years by Lukas Graham
+!play YOUTH by Troye Sivan
+!play Never Forget You by Zara Larsson
+!play Lush Life by Zara Larsson
+!play All My Friends (feat. Tinashe & Chance the Rapper) by Snakehips
+!play PILLOWTALK by ZAYN
+!play White Iverson by Post Malone
+!play I Took A Pill In Ibiza - Seeb Remix by Mike Posner
+!play Don't by Bryson Tiller
+!play Say It by Tory Lanez
+!play Faded by Alan Walker
+!play Exchange by Bryson Tiller
+!play When We Were Young by Adele
+!play Stay (feat. Maty Noyes) by Kygo
+!play Mama Said by Lukas Graham
+!play Lemonade - Ukulele Version by Jeremy Passion
+!play i hate u, i love u (feat. olivia o'brien) by gnash
+!play Starving by Hailee Steinfeld
+!play Say You Won't Let Go by James Arthur
+!play Kanye by The Chainsmokers
+!play Body Like A Back Road by Sam Hunt
+!play All Time Low by Jon Bellion
+!play Chanel by Frank Ocean
+!play Location by Khalid
+!play Young Dumb & Broke by Khalid
+!play Hallucinations by dvsn
+!play Saved by Khalid
+!play American Teen by Khalid
+!play Winter by Khalid
+!play Hopeless by Khalid
+!play Cold Blooded by Khalid
+!play Biking by Frank Ocean
+!play Electric Love by BØRNS
+!play Feels (feat. Pharrell Williams, Katy Perry & Big Sean) by Calvin Harris
+!play Sober by Childish Gambino
+!play I'm Yours by Jason Mraz
+!play Heebiejeebies - Bonus by Aminé
+!play I Like Me Better by Lauv
+!play Lucky by Jason Mraz
+!play Silence by Marshmello
+!play September Song by JP Cooper
+!play Shot Down by Khalid
+!play Why Don't You Come On by DJDS
+!play Juke Jam (feat. Justin Bieber & Towkio) by Chance the Rapper
+!play Empty by Kevin Abstract
+!play Reasons by Khalid
+!play Overtime by Bryson Tiller
+!play Jealousy by Roy Woods
+!play Skyline To by Frank Ocean
+!play Self Control by Frank Ocean
+!play Ivy by Frank Ocean
+!play Pink + White by Frank Ocean
+!play Solo by Frank Ocean
+!play Good Guy by Frank Ocean
+!play Godspeed by Frank Ocean
+!play Seigfried by Frank Ocean
+!play White Ferrari by Frank Ocean
+!play Sunday Candy by Donnie Trumpet & The Social Experiment
+!play Spice Girl by Aminé
+!play Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname) by Chance the Rapper
+!play Thunder by Imagine Dragons
+!play Attention by Charlie Puth
+!play Too Good At Goodbyes by Sam Smith
+!play Home by Phillip Phillips
+!play Imagine by Jack Johnson
+!play Sitting, Waiting, Wishing by Jack Johnson
+!play Better Together by Jack Johnson
+!play Banana Pancakes by Jack Johnson
+!play Weekend by Louis The Child
+!play Fire by Louis The Child
+!play Love Is Alive by Louis The Child
+!play It's Strange by Louis The Child
+!play Go by Louis The Child
+!play Slow Down Love by Louis The Child
+!play I'm a Rebel Just For Kicks by Dunez
+!play Glorious (feat. Skylar Grey) by Macklemore
+!play Uno by Rex Orange County
+!play Fortunate Son by Creedence Clearwater Revival
+!play Let You Down by NF
+!play Feels Great (feat. Fetty Wap & CVBZ) by Cheat Codes
+!play Electric (feat. Khalid) by Alina Baraz
+!play Jocelyn Flores by XXXTENTACION
+!play Ultralight Beam by Kanye West
+!play Ex Calling by 6LACK
+!play PRBLMS by 6LACK
+!play Rollin (feat. Future & Khalid) by Calvin Harris
+!play Ain't Nobody Takin My Baby by Russ
+!play LOYALTY. FEAT. RIHANNA. by Kendrick Lamar
+!play STFU by mansionz
+!play No Problem (feat. Lil Wayne & 2 Chainz) by Chance the Rapper
+!play Blessings (feat. Jamila Woods) by Chance the Rapper
+!play Angels (feat. Saba) by Chance the Rapper
+!play Novacane by Frank Ocean
+!play Gone, Gone, Gone by Phillip Phillips
+!play Havana (feat. Young Thug) by Camila Cabello
+!play Too Good At Goodbyes by Sam Smith
+!play Minnesota by Lil Yachty
+!play Hold It Down by Noah Kahan
+!play Zombie by Call Me Karizma
+!play On Top Of The World by Imagine Dragons
+!play Die For You by The Weeknd
+!play Hallelujah by Pentatonix
+!play Fragments - From The Film "The Smog Of The Sea" by Jack Johnson
+!play My Mind Is For Sale by Jack Johnson
+!play Washing Dishes by Jack Johnson
+!play All of Me by John Legend
+!play Come to Me by The Goo Goo Dolls
+!play fOoL fOr YoU by ZAYN
+!play do re mi by blackbear
+!play I Fall Apart by Post Malone
+!play Family (Blended Babies Remix) [feat. Chance the Rapper & Vic Mensa] by Blended Babies
+!play Somewhere in Paradise (feat. Jeremih & R. Kelly) by Chance the Rapper
+!play Once In a While by Timeflies
+!play Galway Girl by Ed Sheeran
+!play Ignition - Remix by R. Kelly
+!play Ignition by William Singe
+!play One Last Song by Sam Smith
+!play I'm Not The Only One by Sam Smith
+!play Stay With Me by Sam Smith
+!play Pray by Sam Smith
+!play Feeling Whitney by Post Malone
+!play Therapy by Khalid
+!play Love Lies (with Normani) by Khalid
+!play Lay Me Down by Sam Smith
+!play Lay Me Down by Sam Smith
+!play Leave Your Lover by Sam Smith
+!play Cigarette Daydreams by Cage The Elephant
+!play Ain't No Rest for the Wicked by Cage The Elephant
+!play Come a Little Closer by Cage The Elephant
+!play Cold Cold Cold by Cage The Elephant
+!play Trouble by Cage The Elephant
+!play First by Cold War Kids
+!play West Coast by Coconut Records
+!play So Young by Portugal. The Man
+!play Wild Things by Coast Modern
+!play Electric Feel by MGMT
+!play Cool (feat. Marc E. Bassy, Gucci Mane) by Felix Jaehn
+!play Love On The Brain by Rihanna
+!play Trumpets by Jason Derulo
+!play Me And My Broken Heart by Rixton
+!play Rather Be (feat. Jess Glynne) by Clean Bandit
+!play Shower by Becky G
+!play Sing by Ed Sheeran
+!play Troublemaker (feat. Flo Rida) by Olly Murs
+!play Classic by MKTO
+!play Chandelier by Sia
+!play Latch by Disclosure
+!play Love Runs Out by OneRepublic
+!play She Looks So Perfect by 5 Seconds of Summer
+!play How I Feel by Flo Rida
+!play The Way by Ariana Grande
+!play Piano by Ariana Grande
+!play Baby I by Ariana Grande
+!play Almost Is Never Enough by Ariana Grande
+!play Rhyme Or Reason by Eminem
+!play Tattooed Heart by Ariana Grande
+!play Jar of Hearts by Christina Perri
+!play 50 Ways to Say Goodbye by Train
+!play Cool Kids by Echosmith
+!play Count on Me by Bruno Mars
+!play I'm Ready by AJR
+!play Riptide by Vance Joy
+!play Wasted by Tiësto
+!play Leave The Night On by Sam Hunt
+!play Heartless by Kanye West
+!play Marry You by Bruno Mars
+!play Life Of The Party by Shawn Mendes
+!play Crooked Smile (feat. TLC) by J. Cole
+!play Baby I Love Your Way (Reggae) by Reggae Beat
+!play Stolen Dance by Milky Chance
+!play Down By The River by Milky Chance
+!play Summer by Calvin Harris
+!play Drops of Jupiter (Tell Me) by Train
+!play Geronimo by Sheppard
+!play Maps by Maroon 5
+!play Suga Suga by Baby Bash
+!play Lay Me Down by Dirty Heads
+!play Dance All Night by Dirty Heads
+!play Ho Hey by The Lumineers
+!play Clocks by Coldplay
+!play A Sky Full of Stars by Coldplay
+!play Waves - Robin Schulz Radio Edit by Mr. Probz
+!play I Will Wait by Mumford & Sons
+!play In the Summertime by Mungo Jerry
+!play Latch - Acoustic by Sam Smith
+!play Money On My Mind by Sam Smith
+!play Uptown Funk (feat. Bruno Mars) by Mark Ronson
+!play Heroes (we could be) by Alesso
+!play Budapest by George Ezra
+!play Love Me Harder by Ariana Grande
+!play Like I Can by Sam Smith
+!play Ghost by Ella Henderson
+!play Somebody by Natalie La Rose
+!play Sugar by Maroon 5
+!play Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick
+!play Trampoline by Kalin and Myles
+!play Honey, I'm Good. by Andy Grammer
+!play I Lived by OneRepublic
+!play Bonfire Heart by James Blunt
+!play Slow Motion by Trey Songz
+!play No Good For You by Meghan Trainor
+!play I Don't Mind (feat. Juicy J) by Usher
+!play Higher by DJ Hotday
+!play You're My Best Friend by Straight No Chaser
+!play I'm Yours / Somewhere over the Rainbow by Straight No Chaser
+!play Don't Dream It's Over by Straight No Chaser
+!play You & Me & the Bottle Makes Three / Single Ladies by Straight No Chaser
+!play Wonderwall by Straight No Chaser
+!play Brown Eyed Girl by Van Morrison
+!play Waiting On the World to Change by John Mayer
+!play Let Your Hair Down by MAGIC!
+!play Santeria by Sublime
+!play Let Her Go by Passenger
+!play All the Little Lights by Passenger
+!play Staring At the Stars by Passenger
+!play The Wrong Direction by Passenger
+!play Keep On Walking by Passenger
+!play Life's for the Living by Passenger
+!play Holes by Passenger
+!play Shut Up and Dance by WALK THE MOON
+!play ABC by The Jackson 5
+!play Thinking out Loud by Ed Sheeran
+!play Marvin Gaye (feat. Meghan Trainor) by Charlie Puth
+!play Danny's Song by Loggins & Messina
+!play Planez by Jeremih
+!play For A Better Day by Avicii
+!play On My Mind by Ellie Goulding
+!play Renegades by X Ambassadors
+!play Where Are Ü Now by Pentatonix
+!play Stitches by Shawn Mendes
+!play Lay It All on Me (feat. Ed Sheeran) by Rudimental
+!play That's How You Know (feat. Kid Ink & Bebe Rexha) by Nico & Vinz
+!play Tenerife Sea by Ed Sheeran
+!play Like I'm Gonna Lose You (feat. John Legend) by Meghan Trainor
+!play Hello by Adele
+!play Tired of Talking by LÉON
+!play Stuck With Me by Timeflies
+!play Dirty Paws by Of Monsters and Men
+!play Home Again by Michael Kiwanuka
+!play Free by Donavon Frankenreiter
+!play Kamikaze by MØ
+!play CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS") by Justin Timberlake
+!play Everybody Talks by Neon Trees
+!play Gold by Kiiara
+!play Toothbrush by DNCE
+!play Starving by Hailee Steinfeld
+!play We Don't Talk Anymore (feat. Selena Gomez) by Charlie Puth
+!play Scars To Your Beautiful by Alessia Cara
+!play Never Be Like You (feat. Kai) by Flume
+!play Final Song by MØ
+!play You & Me by Marc E. Bassy
+!play Closer by The Chainsmokers
+!play This Is What You Came For (feat. Rihanna) by Calvin Harris
+!play Hymn for the Weekend - Seeb Remix by Coldplay
+!play Fresh Eyes by Andy Grammer
+!play Don't Wanna Know (feat. Kendrick Lamar) by Maroon 5
+!play I Feel It Coming by The Weeknd
+!play That's What I Like by Bruno Mars
+!play How Would You Feel (Paean) by Ed Sheeran
+!play When We Were Young - Acoustic by Passenger
+!play The Long Road - Acoustic by Passenger
+!play Everything - Acoustic by Passenger
+!play Beautiful Birds - Acoustic by Passenger
+!play Fool's Gold - Acoustic by Passenger
+!play Young as the Morning, Old as the Sea - Acoustic by Passenger
+!play Home by Passenger
+!play Weak by AJR
+!play I See Fire by Ed Sheeran
+!play It Ain’t Me (with Selena Gomez) by Kygo
+!play Stay by Zedd
+!play Break Up Every Night by The Chainsmokers
+!play Something Just Like This by The Chainsmokers
+!play The Buzz (feat. Big K.R.I.T., Mataya & Young Tapz) - Bonus Track by Hermitude
+!play Doubt It by KYLE
+!play Don't Wanna Fall In Love by KYLE
+!play Sign of the Times by Harry Styles
+!play Call On Me by Starley
+!play Slide (feat. Frank Ocean & Migos) by Calvin Harris
+!play Eleanor Rigby - Remastered 2009 by The Beatles
+!play Let It Be - Remastered 2009 by The Beatles
+!play Here Comes The Sun - Remastered 2009 by The Beatles
+!play Fireproof (feat. Teddy Sky) by VAX
+!play Finesse - Remix; feat. Cardi B by Bruno Mars
+!play Honey by Kehlani
+!play Sorry Not Sorry by Pentatonix
+!play Attention by Pentatonix
+!play Finesse by Pentatonix
+!play New Rules x Are You That Somebody? by Pentatonix
+!play Perfect by Pentatonix
+!play Stay by Pentatonix
+!play Feel It Still by Pentatonix
+!play Despacito x Shape Of You by Pentatonix
+!play Issues by Pentatonix
+!play Praying by Pentatonix
+!play Imagine by Pentatonix
+!play Can't Help Falling In Love by Pentatonix
+!play Take On Me by Pentatonix
+!play Bohemian Rhapsody by Pentatonix
+!play Lean On by Pentatonix
+!play Rather Be by Pentatonix
+!play Problem by Pentatonix
+!play Attention by Pentatonix
+!play Radioactive by Pentatonix
+!play Take Me to Church by Hozier
+!play All The Stars (with SZA) by Kendrick Lamar
+!play Meant to Be (feat. Florida Georgia Line) by Bebe Rexha
+!play FRIENDS by Marshmello
+!play Playinwitme (feat. Kehlani) by KYLE
+!play Praying by Kesha
+!play Taste (feat. Offset) by Tyga
+!play Facebook Story by Frank Ocean
+!play Fly Me To The Moon (In Other Words) by Frank Sinatra
+!play idontwannabeyouanymore by Billie Eilish
+!play Firework by Canyon City
+!play Lost On You by Lewis Capaldi
+!play I Will Follow You by RIVVRS
+!play Fade by Lewis Capaldi
+!play Bruises by Lewis Capaldi
+!play Tough - Acoustic by Lewis Capaldi
+!play lovely (with Khalid) by Billie Eilish
+!play Edition by Rex Orange County
+!play ocean eyes by Billie Eilish
+!play Mercy by Lewis Capaldi
+!play Body by Loud Luxury
+!play Writing's On The Wall - From "Spectre" Soundtrack by Sam Smith
+!play Happier by Marshmello
+!play Happier by Ed Sheeran
+!play The Scientist by Coldplay
+!play Drew Barrymore by Bryce Vine
+!play Sour Patch Kids by Bryce Vine
+!play Savage (feat. Flux Pavilion & MAX) by Whethan
+!play I Don't Even Know Your Name by Shawn Mendes
+!play Hotel California - 2013 Remaster by Eagles
+!play American Pie by Don McLean
+!play Good Mood by Rei
+!play Never Be the Same by Camila Cabello
+!play Come Back to Earth by Mac Miller
+!play What's the Use? by Mac Miller
+!play Sucker by Jonas Brothers
+!play Wow Freestyle (feat. Kendrick Lamar) by Jay Rock
+!play Walk Me Home by P!nk
+!play Talk by Khalid
+!play Never Go Back by Dennis Lloyd
+!play Sex n' Drugs by Abhi The Nomad
+!play when the party's over by Billie Eilish
+!play Eastside (with Halsey & Khalid) by benny blanco
+!play 25 in Barcelona by JP Saxe
+!play Midsummer Madness by 88rising
+!play Loving Is Easy by Rex Orange County
+!play Best Friend by Rex Orange County
+!play Rebels by Call Me Karizma
+!play Cross Me (feat. Chance the Rapper & PnB Rock) by Ed Sheeran
+!play Napkins by RIZ LA VIE
+!play Sunflower by Rex Orange County
+!play Alien Boy by Oliver Tree
+!play Maple by Felly
+!play Airplane Mode by Limbo
+!play SLOW DANCING IN THE DARK by Joji
+!play Tropicana by Iso Indies
+!play Wait a Minute! by WILLOW
+!play Luv Bug by Wassup Rocker
+!play Buttercup by Jack Stauber
+!play Boys Will Be Bugs by Cavetown
+!play Bubble Gum by Clairo
+!play Oh Klahoma by Jack Stauber
+!play Corduroy Dreams by Rex Orange County
+!play Tunnel of Love by ilyTOMMY
+!play We Go High by Chance the Rapper
+!play Navajo by Masego
+!play bad guy by Billie Eilish
+!play Wifey by Victor J Sefo
+!play Let's Do It Again by J Boog
+!play A Dozen Roses by Sammy Johnson
+!play i'm so tired... by Lauv
+!play NO HALO by BROCKHAMPTON
+!play SUGAR by BROCKHAMPTON
+!play BOY BYE by BROCKHAMPTON
+!play HEAVEN BELONGS TO YOU by BROCKHAMPTON
+!play GINGER by BROCKHAMPTON
+!play BIG BOY by BROCKHAMPTON
+!play VICTOR ROBERTS by BROCKHAMPTON
+!play Gravity by John Mayer
+!play Your Body Is a Wonderland by John Mayer
+!play Slow Dancing in a Burning Room by John Mayer
+!play Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007 by John Mayer
+!play I Won't Give Up by Jason Mraz
+!play Never Gonna Let You Down by Colbie Caillat
+!play California Sun by The Rivieras
+!play Island In The Sun by Weezer
+!play Favorite Song by Chance the Rapper
+!play Circles by Mac Miller
+!play Complicated by Mac Miller
+!play Blue World by Mac Miller
+!play I Can See by Mac Miller
+!play SOS by Avicii
+!play death bed (coffee for your head) by Powfu
+!play Nights by Frank Ocean
+!play Morning by Marc E. Bassy
+!play Faith - Remastered by George Michael
+!play Odd future by UVERworld
+!play Memories by Maroon 5
+!play Blinding Lights by The Weeknd
+!play Way It Goes by Hippo Campus
+!play Chicago Freestyle (feat. Giveon) by Drake
+!play Sun Come Down by Chance the Rapper
+!play Ballin Flossin by Chance the Rapper
